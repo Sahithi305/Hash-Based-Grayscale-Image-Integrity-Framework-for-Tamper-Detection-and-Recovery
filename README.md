@@ -60,23 +60,23 @@ Performance Evaluation
 
 ### Original Image
 
-![Original Image](images/Original Image.png)
+![Original Image](Original%20image.png)
 
 ### Embedded Image
 
-![Embedded Image](images/Embedded Image.png)
+![Embedded Image](Embedded%20Image.png)
 
 ### Tampered Image
 
-![Tampered Image](images/Tampered Image.png)
+![Tampered Image](Tampered%20Image.png)
 
 ### Tamper Detection
 
-![Tamper Detection](images/Detection.png)
+![Tamper Detection](Detection.png)
 
 ### Recovered Image
 
-![Recovered Image](images/Recovered Image.png)
+![Recovered Image](Recovered%20Image.png)
 
 ## Installation
 
