@@ -3,6 +3,7 @@ from PIL import Image
 # -------------------------------------------------
 # LOAD GRAYSCALE IMAGE
 # -------------------------------------------------
+#change this path according to your local system
 img_path = r"C:\Users\DELL\OneDrive\Documents\MATLAB\faces\Gray_test_images_original\4_boat.TIF"
 img_pil = Image.open(img_path).convert("L")
 w, h = img_pil.size
