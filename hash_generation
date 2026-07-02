@@ -5,6 +5,7 @@ import hashlib
 # -------------------------------------------------
 # INPUT IMAGE
 # -------------------------------------------------
+# change this path according to your local system
 img_path = r"C:\Users\sathv\OneDrive\Documents\boat\IE_Basics\Gray_test_images_original\task-2\verification\embedded_outputnew2.tif"
 img = np.array(Image.open(img_path).convert("L"))
 
