@@ -58,25 +58,17 @@ Performance Evaluation
 
 ## Sample Results
 
-### Original Image
+| Original Image | Embedded Image |
+|----------------|----------------|
+| ![Original](Original%20image.png) | ![Embedded](Embedded%20Image.png) |
 
-![Original Image](Original%20image.png)
+| Tampered Image | Tamper Detection |
+|----------------|------------------|
+| ![Tampered](Tampered%20Image.png) | ![Detection](Detection.png) |
 
-### Embedded Image
-
-![Embedded Image](Embedded%20Image.png)
-
-### Tampered Image
-
-![Tampered Image](Tampered%20Image.png)
-
-### Tamper Detection
-
-![Tamper Detection](Detection.png)
-
-### Recovered Image
-
-![Recovered Image](Recovered%20Image.png)
+| Recovered Image |
+|-----------------|
+| ![Recovered](Recovered%20Image.png) |
 
 ## Installation
 
