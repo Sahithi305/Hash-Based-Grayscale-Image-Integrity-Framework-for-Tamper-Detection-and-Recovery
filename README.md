@@ -56,6 +56,28 @@ Image Recovery
 Performance Evaluation
 ```
 
+## Sample Results
+
+### Original Image
+
+![Original Image](images/Original Image.png)
+
+### Embedded Image
+
+![Embedded Image](images/Embedded Image.png)
+
+### Tampered Image
+
+![Tampered Image](images/Tampered Image.png)
+
+### Tamper Detection
+
+![Tamper Detection](images/Detection.png)
+
+### Recovered Image
+
+![Recovered Image](images/Recovered Image.png)
+
 ## Installation
 
 ```bash
