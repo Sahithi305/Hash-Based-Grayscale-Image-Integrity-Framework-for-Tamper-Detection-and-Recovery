@@ -5,6 +5,7 @@ import random
 # -----------------------------
 # INPUT IMAGE PATH (TIFF)
 # -----------------------------
+#change this path according to your local system
 input_path = (r"C:\Users\DELL\admininterface\adminapp\Final review\embedded_outputnew2barbara.tif")  # change this to your file
 
 # Load image (works for grayscale or color)
