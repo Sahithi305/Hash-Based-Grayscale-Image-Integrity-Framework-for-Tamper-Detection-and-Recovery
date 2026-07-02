@@ -7,6 +7,7 @@ import os
 # -------------------------------------------------
 # LOAD IMAGES
 # -------------------------------------------------
+# change this path according to your local system
 original_path = r"C:\Users\DELL\admininterface\adminapp\embedded_outputnew2aero(new).tif"
 tampered_path = r"C:\Users\DELL\admininterface\adminapp\attack_multi_5.tiff"
 
