@@ -122,7 +122,7 @@ The complete project documentation and experimental results are available below:
 
 ## Author
 
-**Sahithi**
+**A.L.S.Sahithi**
 
 Mini Project: Hash-Based Grayscale Image Integrity Framework for Tamper Detection and Recovery
 
