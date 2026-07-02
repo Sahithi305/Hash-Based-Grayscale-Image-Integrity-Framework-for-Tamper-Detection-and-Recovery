@@ -5,6 +5,7 @@ from skimage.metrics import structural_similarity as ssim
 # -----------------------------
 # Load Images
 # -----------------------------
+# change this path according to your local system
 original = cv2.imread(r"C:\Users\DELL\OneDrive\Documents\MATLAB\faces\Gray_test_images_original\4_boat.TIF", cv2.IMREAD_GRAYSCALE)
 tampered = cv2.imread(r"C:\Users\DELL\OneDrive\Documents\MATLAB\faces\INPUTS\INPUTS\cropped\embedded_outputnew2boat_mask_bottom_strip.tif",cv2.IMREAD_GRAYSCALE)
 recovered = cv2.imread(r"C:\Users\DELL\OneDrive\Documents\MATLAB\faces\INPUTS\INPUTS\cropped\embedded_outputnew2boat_mask_bottom_strip_final_recovered122.tif", cv2.IMREAD_GRAYSCALE)
