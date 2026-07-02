@@ -7,6 +7,7 @@ import os
 # -------------------------------------------------
 # PATHS
 # -------------------------------------------------
+# change this path according to your local system
 data_file =  r"C:\Users\DELL\Downloads\hash_with_32bit_msb12boat.txt"
 tampered_path =r"C:\Users\DELL\OneDrive\Documents\MATLAB\faces\INPUTS\INPUTS\cropped\embedded_outputnew2boat_mask_bottom_strip.tif"
 # -------------------------------------------------
